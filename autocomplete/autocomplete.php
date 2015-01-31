@@ -111,7 +111,7 @@ class CI_DB_Driver {
  * @property CI_Xmlrpcs $xmlrpcs
  * @property CI_Zip $zip
  */
-class CI_Module{}
+class CI_Model{}
 
 /**
  * Reference to the CI_Controller method.
